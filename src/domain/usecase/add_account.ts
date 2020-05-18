@@ -5,5 +5,5 @@ export interface AddAcountModel {
   password: String
 }
 export interface AddAccount {
-  add (account: AddAcountModel): AccountModel
+  add (account: AddAcountModel): Promise<AccountModel>
 }
