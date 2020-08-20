@@ -36,7 +36,7 @@
     "typescript": "^3.9.2"
   },
   "dependencies": {
-    "bcrypt": "^4.0.1",
+    "bcrypt": "^5.0.0",
     "mongodb": "^3.5.8",
     "validator": "^13.0.0"
   }
